@@ -1,4 +1,4 @@
-# Zoom Clone — LiveKit-powered Meeting App
+# VidConference — LiveKit-powered Meeting App
 
 A full-stack Zoom-inspired meeting application built with Django REST Framework on the backend and Next.js on the frontend. The project combines a polished UI, meeting lifecycle flows, real-time media connectivity using LiveKit, and host moderation tools.
 
